@@ -1,0 +1,4 @@
+Flask
+spotipy
+python-dotenv
+requests
