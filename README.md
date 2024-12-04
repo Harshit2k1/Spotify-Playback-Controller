@@ -29,8 +29,8 @@ Ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spotify-playback-controller.git
-   cd spotify-playback-controller
+   git clone https://github.com/Harshit2k1/Spotify-Playback-Controller.git
+   cd Spotify-Playback-Controller
 
 2. Install Dependencies
    
